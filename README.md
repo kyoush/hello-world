@@ -1,4 +1,3 @@
 # hello-world
-Just another repository
 
-hello
+In this repository, write "Hello, World!" program using various program language.
